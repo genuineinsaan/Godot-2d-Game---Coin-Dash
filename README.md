@@ -5,9 +5,8 @@
 
 <a href="https://www.packtpub.com/game-development/godot-game-engine-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788831505"><img src="https://static.packt-cdn.com/products/9781788831505/cover/smaller" alt="Godot Engine Game Development Projects" height="256px" align="right"></a>
 
-This is the code repository for [Godot Engine Game Development Projects](https://www.packtpub.com/game-development/godot-game-engine-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788831505), published by Packt.
+This is the code repository for [Godot Engine Game Development Projects](https://www.packtpub.com/game-development/godot-game-engine-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788831505), published by Shashank.
 
-**Build five cross-platform 2D and 3D games with Godot 3.0**
 
 ## What is this book about?
 Godot Engine Game Development Projects is an introduction to the Godot game engine and its new 3.0 version. Godot 3.0 brings a large number of new features and capabilities that make it a strong alternative to expensive commercial game engines. For beginners, Godot offers a friendly way to learn game development techniques, while for experienced developers it is a powerful, customizable tool that can bring your visions to life.
@@ -19,14 +18,13 @@ This book covers the following exciting features:
 * Use Godot’s node and scene system to design robust, reusable game objects
 * Write code in GDScript to capture input and build complex behaviors
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788831500) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. 
 
 The code will look like the following:
 ```
@@ -56,9 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Unity Virtual Reality Projects - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809) [[Amazon]](https://www.amazon.com/dp/1788478800)
 
-## Get to Know the Author
-**Chris Bradfield** has been working in the internet technology space for more than 25 years. He has worked in the online gaming space for a number of successful MMOs and social gaming publishers in South Korea and the United States. Throughout his game industry career, he has served as a game designer, developer, product manager, and business development executive.
-In 2012, he discovered his love for teaching and founded KidsCanCode to provide programming instruction and curriculum to middle and high school students. He is also a member of the Godot Engine documentation team and works to provide learning resources for game development students around the world.
+
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
